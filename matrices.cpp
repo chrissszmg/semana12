@@ -5,6 +5,7 @@
 #include <string>
 using namespace std;
 int main(){
+
     
 int identidad [4][4] = {
  {1,0,0,0},
